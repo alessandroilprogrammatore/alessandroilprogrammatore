@@ -2,9 +2,12 @@
 
 _Crafting elegant solutions between software engineering and practical problem-solving._
 
-- 🔭 I’m currently working on **BugBoard26** (Full-stack Issue Tracker) and **Hittalo Android**
-- 🌱 I’m currently learning Advanced Software Engineering Patterns, Distributed Systems & ISO Security Standards
-- 👨‍💻 My projects focus on clean code, test-driven development, and scalable architectures
+- 🔭 I’m currently building:
+  - **BugBoard26**: A full-stack, enterprise-grade Issue Tracker (React, Spring Boot, PostgreSQL, Docker) deployed on Google Cloud
+  - **EncyBuddy**: An algorithmic-first, cost-effective study platform with dynamic UI feature flagging and VPS deployment
+  - **Hittalo Android**: A comprehensive workout tracking MVP with native Android components and seamless monetization integration
+- 🌱 I’m currently learning: Advanced Software Engineering Patterns, Distributed Systems & ISO Security Standards
+- 👨‍💻 My coding philosophy: Clean Code, Test-Driven Development (TDD), and highly scalable containerized architectures
 - 📫 How to reach me: **[alex204.x@libero.it](mailto:alex204.x@libero.it)**
 
 ## 🗺️ Stats
@@ -17,17 +20,16 @@ _Crafting elegant solutions between software engineering and practical problem-s
 ---
 
 ### ⌨ Software Engineering
-- Idea to Source Code: end-to-end full-stack development
-- Backend & Architecture (Java Spring Boot, REST APIs)
-- Frontend Development (React, TypeScript, Tailwind)
-- Version control (Git) & Containerization (Docker)
+- **Full-Stack Development**: From React/Tailwind frontend SPAs to robust Java Spring Boot backend services
+- **Mobile Development**: Crafting native Android applications with complex flows
+- **DevOps & Cloud**: Dockerizing applications and configuring deployment pipelines (Google Cloud, custom VPS setups, secure environment management)
+- **Version Control**: Git workflow mastery and extensive repository management
 
 ### 🧠 Problem Solving
-- Analytical and critical thinking
-- Breaking down complex issues into maintainable components
-- Creative and algorithmic solution generation
+- **Architectural Design**: Designing algorithmic-first systems and scalable databases (JPA, Hibernate)
+- **Debugging & Performance Optimization**: Isolating bottlenecks and writing extensive unit/integration tests (JUnit, Mockito)
+- **Algorithmic Logic**: Ability to conceptualize and translate complex computer science ideas into working components
 
 ### 🤝 Collaboration & Teamwork
-- Active listening & clear technical communication
-- Thriving in group academic projects and team environments
-- Producing comprehensive technical documentation (UML, LaTeX)
+- **Agile Practices**: Thriving in group academic projects with clear task delegation and issue tracking
+- **Technical Communication**: Producing comprehensive, professional-grade technical documentation (UML, LaTeX, API definitions)
