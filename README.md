@@ -18,15 +18,7 @@ _Crafting elegant solutions between software engineering and practical problem-s
   </a>
 </p>
 
-## 🗺️ GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessandroilprogrammatore&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a3a3a3&icon_color=3b82f6&include_all_commits=true&count_private=true" alt="Alessandro's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroilprogrammatore&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a3a3a3" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandroilprogrammatore&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a3a3a3&ring=3b82f6&fire=3b82f6&currStreakLabel=a3a3a3" alt="GitHub Streak" width="49%" />
-</p>
 
 ---
 
