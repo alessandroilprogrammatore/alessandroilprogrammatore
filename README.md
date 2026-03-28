@@ -2,7 +2,7 @@
 
 _Crafting elegant solutions between software engineering and practical problem-solving._
 
-- 🔭 I’m currently working on **BugBoard26** (Full-stack Issue Tracker), **Hittalo Android** and **encybuddy.com**
+- 🔭 I’m currently working on **BugBoard26** (Full-stack Issue Tracker) and **Hittalo Android**
 - 🌱 I’m currently learning Advanced Software Engineering Patterns, Distributed Systems & ISO Security Standards
 - 👨‍💻 My projects focus on clean code, test-driven development, and scalable architectures
 - 📫 How to reach me: **[alex204.x@libero.it](mailto:alex204.x@libero.it)**
