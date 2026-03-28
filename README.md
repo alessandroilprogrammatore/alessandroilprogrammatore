@@ -10,11 +10,22 @@ _Crafting elegant solutions between software engineering and practical problem-s
 - 👨‍💻 My coding philosophy: Clean Code, Test-Driven Development (TDD), and highly scalable containerized architectures
 - 📫 How to reach me: **[alex204.x@libero.it](mailto:alex204.x@libero.it)**
 
-## 🗺️ Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=alessandroilprogrammatore&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a3a3a3&icon_color=3b82f6" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroilprogrammatore&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a3a3a3" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,ts,tailwind,postgres,docker,gcp,git,linux,android&perline=11" />
+  </a>
+</p>
+
+## 🗺️ GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alessandroilprogrammatore&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a3a3a3&icon_color=3b82f6&include_all_commits=true&count_private=true" alt="Alessandro's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroilprogrammatore&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a3a3a3" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alessandroilprogrammatore&theme=transparent&hide_border=true&title_color=3b82f6&text_color=a3a3a3&ring=3b82f6&fire=3b82f6&currStreakLabel=a3a3a3" alt="GitHub Streak" width="49%" />
 </p>
 
 ---
